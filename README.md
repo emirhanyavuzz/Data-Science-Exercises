@@ -1,12 +1,12 @@
-📊 **Data Science Fundamentals with Python**
+ **Data Science Fundamentals with Python**
 
 NumPy • Pandas • Matplotlib • Jupyter Notebook
 
 Bu repo, Python ile veri bilimi temellerini öğrenirken oluşturduğum Jupyter Notebook çalışmalarını içerir. NumPy ile bilimsel hesaplamalar, Pandas ile veri manipülasyonu ve Matplotlib ile veri görselleştirme gibi temel Data Science becerilerini adım adım uygulamalı olarak geliştirmeyi amaçladım.
 
-🚀 **İçerikler**
+ **İçerikler**
 
-🔢 **NumPy**
+ **NumPy**
 
 Diziler (arrays) oluşturma
 
@@ -18,7 +18,7 @@ Random modülü ile çalışma
 
 Vektörel işlemler
 
-🧩 **Pandas**
+ **Pandas**
 
 DataFrame & Series yapıları
 
@@ -30,7 +30,7 @@ Filtreleme, gruplaştırma
 
 Veri dönüştürme ve kolon işlemleri
 
-📈 **Matplotlib**
+ **Matplotlib**
 
 Temel çizimler: line, scatter, bar
 
@@ -42,11 +42,11 @@ Etiketler, başlıklar, legend
 
 Veri analizi için görsel yorumlama
 
-🎯 **Amaç**
+ **Amaç**
 
 Bu repo, veri bilimi yolculuğumun ilk adımlarını göstermeyi ve temel kütüphaneleri nasıl kullandığımı örneklerle açıklamayı amaçlar. Öğrenmek isteyenler için de rehber niteliği taşıyabilir.
 
-🛠 **Kullanılan Teknolojiler**
+ **Kullanılan Teknolojiler**
 
 Python 3.x
 
